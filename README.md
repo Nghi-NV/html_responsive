@@ -6,8 +6,12 @@
 
 ## 2. Food Restaurant
 
-![book 3d](images/food_restaurant.png)
+![Food Restaurant](images/food_restaurant.png)
 
 ## 3. Landing Hero Page
 
-![book 3d](images/landing_hero.png)
+![Landing Hero Page](images/landing_hero.png)
+
+## 4. Chart race
+
+![Chart race](images/chart_race.png)
